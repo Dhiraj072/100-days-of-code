@@ -33,10 +33,11 @@
 
 ### Day 3: February 4
 
-**Today's Progress**: In prgress
+**Today's Progress**: 2 medium difficulty level leetcode problems complete, had to lookup for solutions for one of them :|
 
-**Thoughts:** Trees are tough
+**Thoughts:** Trees are tough.
 
 **Link(s) to work**: 
-* REDO [Serialize deserialize binary tree](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/812/)
-* In progres
+* REDO [Serialize deserialize binary tree](https://github.com/Dhiraj072/leetcode/commit/e28f83b575b89acbb1f3f0694b639ac70badb243)
+* [Excel sheet column number](https://github.com/Dhiraj072/leetcode/commit/e28f83b575b89acbb1f3f0694b639ac70badb243)
+
