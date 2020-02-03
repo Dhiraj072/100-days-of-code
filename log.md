@@ -30,3 +30,13 @@
 **Link(s) to work**: 
 * [Jump Game](https://github.com/Dhiraj072/leetcode/commit/38c52aa67ab42adf138b68805d835b05dfc07565)
 * Another DP problem
+
+### Day 3: February 4
+
+**Today's Progress**: In prgress
+
+**Thoughts:** Trees are tough
+
+**Link(s) to work**: 
+* REDO [Serialize deserialize binary tree](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/812/)
+* In progres
