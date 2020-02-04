@@ -42,12 +42,11 @@
 * [Excel sheet column number](https://github.com/Dhiraj072/leetcode/commit/e28f83b575b89acbb1f3f0694b639ac70badb243)
 
 
-
 ### Day 4: February 5
 
-**Today's Progress**: 2 medium difficulty level leetcode problems complete, had to lookup for solutions for one of them :|
+**Today's Progress**: 2 medium difficulty level leetcode problems complete!
 
-**Thoughts:** Trees are tough.
+**Thoughts:** I feel I am okay with array problems. need to work on tree and sorting!
 
 **Link(s) to work**: 
 * [Longest Substring Without Repeating Characters](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)
