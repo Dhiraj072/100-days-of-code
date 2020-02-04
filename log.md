@@ -41,3 +41,14 @@
 * REDO [Serialize deserialize binary tree](https://github.com/Dhiraj072/leetcode/commit/e28f83b575b89acbb1f3f0694b639ac70badb243)
 * [Excel sheet column number](https://github.com/Dhiraj072/leetcode/commit/e28f83b575b89acbb1f3f0694b639ac70badb243)
 
+
+
+### Day 4: February 5
+
+**Today's Progress**: 2 medium difficulty level leetcode problems complete, had to lookup for solutions for one of them :|
+
+**Thoughts:** Trees are tough.
+
+**Link(s) to work**: 
+* [Longest Substring Without Repeating Characters](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)
+* [Majority number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
