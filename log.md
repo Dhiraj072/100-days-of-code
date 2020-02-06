@@ -51,3 +51,16 @@
 **Link(s) to work**: 
 * [Longest Substring Without Repeating Characters](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)
 * [Majority number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
+
+
+
+### Day 5: February 6
+
+**Today's Progress**: 2 medium difficulty level leetcode problems complete!
+
+**Thoughts:** Not very tough, but need to work on better time/space complexity for my solutions on this one
+
+**Link(s) to work**: 
+* [Binary Tree InOrder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)
+* [Intersection of two linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
+
