@@ -64,3 +64,14 @@
 * [Binary Tree InOrder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)
 * [Intersection of two linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
 
+ ### Day 5: February 6
+
+**Today's Progress**: 2 medium difficulty level leetcode problems complete!
+
+**Thoughts:** Same problems as yesterday - implemented with better time/space complexity
+
+**Link(s) to work**: 
+* [Binary Tree InOrder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)
+* [Intersection of two linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
+
+
