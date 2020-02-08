@@ -74,4 +74,12 @@
 * [Binary Tree InOrder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)
 * [Intersection of two linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
 
+ ### Day 7: February 8
 
+**Today's Progress**: 2 medium difficulty level leetcode problems complete!
+
+**Thoughts:** Getting better with sorting/searching
+
+**Link(s) to work**: 
+* Search for a range (leetcode proble)
+* Permutation backtracking
