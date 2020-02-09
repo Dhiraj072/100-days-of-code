@@ -91,5 +91,5 @@
 **Thoughts:** Struggled a LOT with the Coin Change DP problem, had to lookup hints. Need real improvement on dynamic programming.
 
 **Link(s) to work**:
-* [Coin change](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
-* Permutation backtracking
+* REDO [Coin change - Top down solution](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
+* REDO [Coin change - Bottom up solution](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
