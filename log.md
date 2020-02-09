@@ -80,6 +80,16 @@
 
 **Thoughts:** Getting better with sorting/searching
 
-**Link(s) to work**: 
-* Search for a range (leetcode proble)
+**Link(s) to work**:
+* Search for a range (leetcode problem)
+* Permutation backtracking
+
+ ### Day 8: February 9
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete!
+
+**Thoughts:** Struggled a LOT with the Coin Change DP problem, had to lookup hints. Need real improvement on dynamic programming.
+
+**Link(s) to work**:
+* [Coin change](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
 * Permutation backtracking
