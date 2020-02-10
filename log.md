@@ -93,3 +93,13 @@
 **Link(s) to work**:
 * REDO [Coin change - Top down solution](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
 * REDO [Coin change - Bottom up solution](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
+
+ ### Day 9: February 10
+
+**Today's Progress**: 2 medium difficulty level leetcode problem complete!
+
+**Thoughts:** Design problems and Math, went okay.
+
+**Link(s) to work**:
+* [Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)
+* [Insert Delete GetRandom O(1)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/813/)
