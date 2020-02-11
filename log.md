@@ -103,3 +103,8 @@
 **Link(s) to work**:
 * [Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)
 * [Insert Delete GetRandom O(1)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/813/)
+
+
+ ### Day 10: February 11
+
+**Today's Progress**: Spent 2 hours trying to figure Longest Common Palindrome. Couldn't solve! Will continue tomorrow.
