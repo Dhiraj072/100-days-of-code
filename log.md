@@ -107,4 +107,14 @@
 
  ### Day 10: February 11
 
-**Today's Progress**: Spent 2 hours trying to figure Longest Common Palindrome. Couldn't solve! Will continue tomorrow.
+[REDO] **Today's Progress**: Spent 2 hours trying to figure Longest Common Palindrome. Couldn't solve! Will continue tomorrow.
+
+ ### Day 11: February 12
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete!
+
+**Thoughts:** --
+
+**Link(s) to work**:
+* [Set matrix zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)
+
