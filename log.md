@@ -118,3 +118,12 @@
 **Link(s) to work**:
 * [Set matrix zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)
 
+ ### Day 12: February 13
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete!
+
+**Thoughts:** --
+
+**Link(s) to work**:
+* [Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)
+
