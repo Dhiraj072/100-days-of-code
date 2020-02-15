@@ -135,3 +135,14 @@
 
 **Link(s) to work**:
 * REDO [Subsets](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/)
+
+### Day 14: February 15
+
+**Today's Progress**: 2 medium difficulty level leetcode problem complete!
+
+**Thoughts:** Seems like getting better at sorting/searching.
+
+**Link(s) to work**:
+* [Merge intervals](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/)
+* [Unique Paths] (https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/)
+
