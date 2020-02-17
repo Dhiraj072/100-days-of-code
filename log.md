@@ -155,3 +155,13 @@
 **Link(s) to work**:
 * [LRU cache](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/867/)
 
+
+### Day 16: February 17
+
+**Today's Progress**: Worked on the Task Scheduler leetcode problem. Still figuring it out.
+
+**Thoughts:** --
+
+**Link(s) to work**:
+* [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/826/)
+
