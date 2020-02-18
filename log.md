@@ -165,3 +165,13 @@
 **Link(s) to work**:
 * [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/826/)
 
+
+### Day 17: February 20
+
+**Today's Progress**: Worked on the Add Two Numbers leetcode problem. Still figuring it out.
+
+**Thoughts:** --
+
+**Link(s) to work**:
+* [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+
