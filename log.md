@@ -166,11 +166,21 @@
 * [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/826/)
 
 
-### Day 17: February 20
+### Day 17: February 18
 
 **Today's Progress**: Worked on the Add Two Numbers leetcode problem. Still figuring it out.
 
 **Thoughts:** --
+
+**Link(s) to work**:
+* [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+
+
+### Day 18: February 19
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete! 
+
+**Thoughts:** Completed the task scheduler problem after much effort.
 
 **Link(s) to work**:
 * [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
