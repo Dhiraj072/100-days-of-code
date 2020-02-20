@@ -183,5 +183,14 @@
 **Thoughts:** Completed the task scheduler problem after much effort.
 
 **Link(s) to work**:
-* [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+* REDO [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+
+
+### Day 19: February 20
+
+**Today's Progress**: Worked on solving Sum of Two Integers problem
+
+**Thoughts:** -- 
+
+* [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
 
