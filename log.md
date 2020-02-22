@@ -206,9 +206,9 @@
 
 ### Day 21: February 22
 
-**Today's Progress**: 1 medium difficulty level leetcode problem complete! 
+**Today's Progress**: 2 medium difficulty level leetcode problem complete! 
 
 **Thoughts:** Learned quite a bit on bitwise operators in java
 
 * REDO [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
-
+* [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/)
