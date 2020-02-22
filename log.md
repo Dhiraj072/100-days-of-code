@@ -194,3 +194,21 @@
 
 * [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
 
+
+### Day 20: February 21
+
+**Today's Progress**: Worked on solving Sum of Two Integers problem
+
+**Thoughts:** -- 
+
+* [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+
+
+### Day 21: February 22
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete! 
+
+**Thoughts:** Learned quite a bit on bitwise operators in java
+
+* REDO [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+
