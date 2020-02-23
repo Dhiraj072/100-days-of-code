@@ -212,3 +212,12 @@
 
 * REDO [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
 * [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/)
+
+
+### Day 22: February 23
+
+**Today's Progress**: 1 medium difficulty level leetcode problem complete! 
+
+**Thoughts:** Reading on DFS and BFS
+
+* [Word Search](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/)
