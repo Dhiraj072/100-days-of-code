@@ -221,3 +221,17 @@
 **Thoughts:** Reading on DFS and BFS
 
 * [Word Search](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/)
+
+
+### Day 23: February 24
+
+**Today's Progress**: Worked on Search in a Rotated Sorted Array problem.
+
+**Thoughts:** --
+
+
+### Day 24: February 25
+
+**Today's Progress**: Worked on Longest Increasing Subsequence problem.
+
+**Thoughts:** --
