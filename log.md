@@ -245,3 +245,23 @@
 
 * [Product of Array Except Self] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/)
 
+
+### Day 26: February 27
+
+**Today's Progress**: Worked on solving Product of Array except self problem with constant space! 
+
+**Thoughts:** --
+
+* [Product of Array Except Self] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/)
+
+
+### Day 27: February 28
+
+**Today's Progress**: 1 hard leetcode problem complete!
+**Thoughts:** --
+
+* [Copy List with Random Pointer] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/841/)
+
+
+
+
