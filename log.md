@@ -272,12 +272,24 @@
 * [Lowest Common Ancestor of a Binary Tree] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/844/)
 
 
-### Day 30: March 1
+### Day 29: March 1
 
 **Today's Progress**: Worked on solving a bunch of leetcode problems, in progress!
 
 **Thoughts:** --
 
 
+### Day 30: March 2
+
+**Today's Progress**: Worked on solving a bunch of leetcode problems, in progress!
+
+**Thoughts:** --
 
 
+### Day 31: March 3
+
+**Today's Progress**: 1 hard leetcode problem complete!
+
+**Thoughts:** --
+
+* [Word Break] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/864/)
