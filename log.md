@@ -309,7 +309,7 @@
 **Thoughts:** --
 
 
-### Day 34: March 5
+### Day 34: March 14
 
 **Today's Progress**: A week's break due to vacation, moving on. 1 hard leetcode problem complete!
 
