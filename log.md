@@ -293,3 +293,26 @@
 **Thoughts:** --
 
 * [Word Break] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/864/)
+
+
+### Day 32: March 4
+
+**Today's Progress**: Worked on solving a bunch of leetcode problems, in progress!
+
+**Thoughts:** --
+
+
+### Day 33: March 5
+
+**Today's Progress**: Worked on solving a bunch of leetcode problems, in progress!
+
+**Thoughts:** --
+
+
+### Day 34: March 5
+
+**Today's Progress**: A week's break due to vacation, moving on. 1 hard leetcode problem complete!
+
+**Thoughts:** --
+
+* [Spiral Matrix] (https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/)
